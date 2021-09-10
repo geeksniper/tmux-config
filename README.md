@@ -1,6 +1,5 @@
 # tmux-config
 
-Config from [ippsec](https://www.youtube.com/watch?v=Lqehvpe_djs).
 ```
 #set prefix
 set -g prefix C-a
